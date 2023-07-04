@@ -46,7 +46,6 @@ public class C06_FakerClass extends TestBase {
 
         //Fix the steps
 
-
         //4 - Let's hit the sign up button
     }
 }
