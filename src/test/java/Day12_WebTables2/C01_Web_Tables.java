@@ -1,4 +1,4 @@
-package Day12_WebTables_Excel;
+package Day12_WebTables2;
 
 import org.junit.Test;
 import org.openqa.selenium.By;
